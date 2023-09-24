@@ -4,7 +4,7 @@
 	<project path="device/sony/bahamut" name="voidanix/device-sony-bahamut" remote="keyedlimepie" revision="lineage-20" />
 	<project path="device/sony/griffin" name="voidanix/device-sony-griffin" remote="keyedlimepie" revision="lineage-20" />
 	<project path="device/sony/sm8150-common" name="voidanix/android_device_sony_sm8150-common" remote="keyedlimepie" revision="lineage-20" />
-	<project path="kernel/sony/sm8150" name="voidanix/android_kernel_sony_msm" remote="keyedlimepie" revision="lineage-20-rebased-wip" />
+	<project path="kernel/sony/sm8150" name="voidanix/android_kernel_sony_msm" remote="keyedlimepie" revision="lineage-20" />
 	<project path="vendor/sony/bahamut" name="voidanix/android_vendor_sony_bahamut" remote="keyedlimepie" revision="lineage-20" />
 	<project path="vendor/sony/sm8150-common" name="voidanix/android_vendor_sony_sm8150-common" remote="keyedlimepie" revision="lineage-20" />
 	<project path="hardware/sony" name="lineageos/android_hardware_sony" remote="github" revision="lineage-20" />
