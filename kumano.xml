@@ -1,9 +1,0 @@
-<manifest>
-	<remote name="keyedlimepie" fetch="https://git.keyedlimepie.org" />
-
-	<project path="device/sony/bahamut" name="voidanix/device-sony-bahamut" remote="keyedlimepie" revision="lineage-21" />
-	<project path="device/sony/sm8150-common" name="bobbyamarthaa/android_device_sony_sm8150-common" remote="keyedlimepie" revision="crdroid-14" />
-	<project path="kernel/sony/sm8150" name="voidanix/android_kernel_sony_msm" remote="keyedlimepie" revision="lineage-21" />
-	<project path="vendor/sony/bahamut" name="voidanix/android_vendor_sony_bahamut" remote="keyedlimepie" revision="lineage-21" />
-	<project path="vendor/sony/sm8150-common" name="voidanix/android_vendor_sony_sm8150-common" remote="keyedlimepie" revision="lineage-21" />
-</manifest>
