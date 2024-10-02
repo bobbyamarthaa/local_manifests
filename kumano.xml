@@ -2,9 +2,9 @@
 	<remote name="voidanix" fetch="https://git.keyedlimepie.org/voidanix" />
 	<remote name="bobbyamarthaa" fetch="https://github.com/bobbyamarthaa" />
 
-	<project path="device/sony/bahamut" name="device-sony-bahamut" remote="voidanix" revision="lineage-21" />
+	<project path="device/sony/griffin" name="device-sony-griffin" remote="voidanix" revision="lineage-21" />
 	<project path="device/sony/sm8150-common" name="android_device_sony_sm8150-common" remote="bobbyamarthaa" revision="crdroid-14" />
 	<project path="kernel/sony/sm8150" name="android_kernel_sony_msm" remote="voidanix" revision="lineage-21" />
-	<project path="vendor/sony/bahamut" name="android_vendor_sony_bahamut" remote="voidanix" revision="lineage-21" />
+	<project path="vendor/sony/griffin" name="android_vendor_sony_griffin" remote="voidanix" revision="lineage-21" />
 	<project path="vendor/sony/sm8150-common" name="android_vendor_sony_sm8150-common" remote="voidanix" revision="lineage-21" />
 </manifest>
