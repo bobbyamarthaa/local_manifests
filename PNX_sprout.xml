@@ -3,7 +3,7 @@
 	<remote name="bobbyamarthaa" fetch="https://github.com/bobbyamarthaa" />
 	<remote name="jh46" fetch="https://github.com/jh46" />
 
-	<project path="device/nokia/PNX_sprout" name="android_device_nokia_PNX_sprout" remote="bobbyamarthaa" revision="lineage-21" />
+	<project path="device/nokia/PNX_sprout" name="android_device_nokia_PNX_sprout" remote="bobbyamarthaa" revision="crdroid-15" />
 	<project path="kernel/nokia/sdm710" name="android_kernel_nokia_sdm710" remote="jh46" revision="jh.p552" />
 	<project path="vendor/nokia/PNX_sprout" name="proprietary_vendor_nokia_PNX_sprout" remote="bobbyamarthaa" revision="lineage-21" />
 	
