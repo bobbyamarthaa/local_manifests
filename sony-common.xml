@@ -1,3 +1,3 @@
 <manifest>
-	<project path="hardware/sony" name="LineageOS/android_hardware_sony" remote="github" revision="lineage-22" />
+	<project path="hardware/sony" name="LineageOS/android_hardware_sony" remote="github" revision="lineage-22.0" />
 </manifest>
