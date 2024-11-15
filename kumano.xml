@@ -5,7 +5,7 @@
 
 	<project path="device/sony/bahamut" name="device_sony_bahamut" remote="dabxxbs" revision="crdroid-15" />
 	<project path="device/sony/sm8150-common" name="android_device_sony_sm8150-common" remote="dabxxbs" revision="crdroid-15" />
-	<project path="kernel/sony/sm8150" name="android_kernel_sony_msm" remote="voidanix" revision="los22-fix" />
+	<project path="kernel/sony/sm8150" name="android_kernel_sony_msm" remote="voidanix" revision="lineage-21" />
 	<project path="vendor/sony/bahamut" name="android_vendor_sony_bahamut" remote="voidanix" revision="lineage-21" />
 	<project path="vendor/sony/sm8150-common" name="android_vendor_sony_sm8150-common" remote="voidanix" revision="lineage-21" />
 </manifest>
